@@ -1,11 +1,11 @@
 # Site settings
 author: James Batsell
-title: 
+title: Dreadheaddreamz
 header-img: img/home-bg.png
 email: jamesbatsell05@gmail.com
 copyright_name: James Batsell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Welcome to my world
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Dreadheaddreamz
 github_username:  dreadheaddreamz
