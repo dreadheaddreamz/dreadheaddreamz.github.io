@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Journey Back"
-date:       2019-09-24 04:30:00 +0000
+date:       2019-09-24 00:30:01 -0400
 permalink:  my_journey_back
 ---
 
