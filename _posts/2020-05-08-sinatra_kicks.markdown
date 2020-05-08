@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Sinatra Kicks!**"
-date:       2020-05-08 22:01:49 +0000
+title:      "Sinatra Kicks!"
+date:       2020-05-08 18:01:50 -0400
 permalink:  sinatra_kicks
 ---
 
